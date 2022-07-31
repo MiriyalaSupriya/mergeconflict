@@ -1,14 +1,14 @@
 class sum
-{{{
-    public static void main(String args
-[D[D[D[D[D[D[D[D[D[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[])
+{
+    public static void main(String args[])
+
 {
 int a,b,res;
 	a=10;
-b=25;[D[D[D[D[D[D[D		
+b=25;		
 
-rev=a+b;[D[D[D[D[D[D[D[C[s[C[C[C[C[C[C[C
+res=a+b;
 
-system.out.println("Addition 10 & 25 is : +[D[D"[C[Cres)
+system.out.println("Addition 10 & 25 is "+res)
 }
 }
